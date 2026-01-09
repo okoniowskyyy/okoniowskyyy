@@ -16,7 +16,7 @@ I’m passionate about network security, embedded systems, programming and secur
 ### Experience
 - Researcher at AGH University, focusing on post-quantum crypto for IoT and Zigbee protocol implementation (2025 November-December)
 
-  ### Highlights
+### Highlights
 - Presenter at IEEE Military Communications Conference 2025 (Los Angeles) [milcom]
 - 1st place at AGH Student Research Groups Conference 2025 [agh-conf]
 - Co-founder of KN C1PH3R AGH, where I help organize cybersecurity events and workshops [cipher]
